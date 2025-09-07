@@ -54,7 +54,7 @@ Tenho como objetivo constante eliminar tarefas manuais 🛠️, criar fluxos de 
 
 ### 🌎 Onde me encontrar
 <div>
-  <a href="https://www.linkedin.com/in/guilherme-sena" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-ferreira-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:gferreirasena.bsb@gmail.com">
