@@ -57,17 +57,10 @@ Tenho como objetivo constante eliminar tarefas manuais 🛠️, criar fluxos de 
   <a href="https://www.linkedin.com/in/guilherme-ferreira-" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:gferreirasena.bsb@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
   <a href="https://github.com/Guilhermebk11" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/guilhermesena085" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.stackoverflow.com/users/SEUUSUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank">
   </a>
 </div>
